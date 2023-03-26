@@ -1,0 +1,13 @@
+.jumbotron {
+  /* perintah untuk memanggil jumbotron memlaui css */
+  padding-top: 6rem; /* untuk membuat jarak antara foto dan header */
+  background-color: #e6e6e6; /* untuk mengatur warna background dibelakang foto  */
+}
+
+#Projects {
+  background-color: #e6e6e6;
+}
+
+section {
+  padding-top: 5rem;
+}
